@@ -1,5 +1,7 @@
 # Coffee_Shop_Sales_Dashborad
 
+# [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Q4MzI2N2YtZGM0Yi00NzRhLWJjNTctNDBlNmU4ODE2ZDQ3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) 
+
 # Objective
 To integrate and enhance the insights from multiple dashboards into a single, comprehensive report that provides a holistic view of sales performance, customer behavior, and product trends. 
 This consolidated dashboard will improve decision-making, optimize operations, and refine sales strategies.
