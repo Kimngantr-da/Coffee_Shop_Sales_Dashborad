@@ -28,7 +28,8 @@ Drill-Down Features – Clicking into categories to see detailed breakdowns.
 
 
 # Business Impact
+- Better Decision-Making – Identifies sales trends, peak hours, and top-performing products.
+- Revenue Optimization – Enables pricing and promotional adjustments based on insights.
+- Improved Customer Understanding – Aligns inventory and marketing with buying patterns.
 
-✅ Better Decision-Making – Identifies sales trends, peak hours, and top-performing products.
-✅ Revenue Optimization – Enables pricing and promotional adjustments based on insights.
-✅ Improved Customer Understanding – Aligns inventory and marketing with buying patterns.
+
